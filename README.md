@@ -3,11 +3,11 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=c0dezey&theme=onedark)](https://github.com/c0dezey)
+[![trophy](https://github-profile-trophy.vercel.app/?username=c0de-z&theme=onedark)](https://github.com/c0de-z)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/c0dezey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="c0de-z" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/c0dezey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="c0de-z" height="30" width="40" /></a>
+<a href="https://codepen.io/c0de-z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="c0de-z" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/c0de-z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="c0de-z" height="30" width="40" /></a>
 <a href="https://discord.gg/79pvgA5M4X" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="79pvgA5M4X" height="30" width="40" /></a>
 </p>
 
