@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Nicholas!</h1>
-<h2 aligin= "center"> Check out my <a href="[url](https://c0dez.vercel.app)">Website!</a>
- </h2>
+<h3 aligin= "center"> Check out my [Website!](https://c0dez.vercel.app)</h2>
 
 
 
