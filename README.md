@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nicholas!</h1>
-Check out my [Website!](https://c0dez.vercel.app)
+Check out my [Website](https://c0dez.vercel.app)!
 
 
 
