@@ -11,6 +11,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=C0DE-Z&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=C0DE-Z&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=917&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark" height="150" alt="streak graph"  />
 </div>
 
 ###
