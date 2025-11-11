@@ -92,10 +92,7 @@
 
 ###
 
-<br clear="both">
-
 {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
-
 
 ###
 
