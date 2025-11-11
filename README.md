@@ -92,8 +92,6 @@
 
 ###
 
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
-
 ###
 
 <div align="center">
