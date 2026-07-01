@@ -12,7 +12,7 @@
 
 ### About Me
 
-I am a developer based in Ontario, entering the Computer Engineering Technology program at Humber Polytechnic this fall. My work focuses on bridging software and physical hardware through competitive robotics, microcontrollers, and custom drone engineering.
+I am a developer based in Ontario, entering the Computer Engineering Technology program this fall. My work focuses on bridging software and physical hardware through competitive robotics, microcontrollers, and custom drone engineering.
 
 ---
 
