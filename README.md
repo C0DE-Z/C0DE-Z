@@ -5,7 +5,7 @@
 <h1 align="center">Hi! I'm Nicholas</h1>
 
 <div align="center">
-  <em>Incoming Computer Engineering Technology Student | Hardware & Software Developer</em>
+  <em>Incoming Electromechanical Engineering Technology Student | Hardware & Software Developer</em>
 </div>
 
 <br />
