@@ -19,8 +19,8 @@ I am a developer based in Ontario, entering the Computer Engineering Technology 
 ### Featured Projects
 
 * **Absolute Lib:** A comprehensive FRC utility library providing competition-tested subsystems, unified builder-pattern motor wrappers, and an advanced ballistic trajectory solver that accounts for air resistance and the Magnus effect.
-* **Custom FPV Drones:** Structural design and physical geometry for 3.5-inch FPV drone frames, optimizing mounting patterns for specific flight controllers and ESC stacks.
-
+* **Custom FPV Drones:** From designing frames to flight controllers I do it all 
+* ** Z ** A video editor made fully in c++ made designed to fuck up videos 
 ---
 
 ### GitHub Stats
