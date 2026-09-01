@@ -12,7 +12,7 @@
 
 ### About Me
 
-I am a developer based in Ontario, entering the Computer Engineering Technology program this fall
+* I am a developer based in Ontario, entering the Computer Engineering Technology program this fall
 ---
 
 ### Featured Projects
