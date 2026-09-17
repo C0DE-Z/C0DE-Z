@@ -5,20 +5,22 @@
 <h1 align="center">Hi! I'm Nicholas</h1>
 
 <div align="center">
-  <em>Incoming Electromechanical Engineering Technology Student | Hardware & Software Developer</em>
+  <em>Electromechanical Engineering Technology Student | Hardware & Software Developer</em>
 </div>
 
 <br />
 
 ### About Me
 
-* I am a developer based in Ontario, entering the Computer Engineering Technology program this fall
+* I am a developer in Ontario, currently I'm studying Electromechanical Engineering
 ---
 
-### Featured Projects
+### Best Projects
 
-* **Absolute Lib:** A comprehensive FRC utility library providing competition-tested subsystems, unified builder-pattern motor wrappers, and an advanced ballistic trajectory solver that accounts for air resistance and the Magnus effect.
-* **Custom FPV Drones:** From designing frames to flight controllers I do it all 
+* **[Absolute Lib:](github.com/team4308/absolutelib/tree/master)** My most extensive project to date, engineered to streamline FRC programming. It features pre-built, fully simulated subsystems for rapid iteration and deployment, along with a versatile trajectory calculator designed for the 2026 season but adaptable to any game. it also contains a bunch more! 
+  
+* **Analog Guitar Pedals** I love analog devices, especially in music, it has a sound that no digital pedal could create. But analog pedals cost a lot so I create cheaper alternatives to amazing pedals, while manting the original sound profiles. Check out my latest one Ecstasis.
+    
 * **Z** A video editor made fully in c++ made designed to fuck up videos 
 ---
 
