@@ -17,7 +17,7 @@
 
 ### Best Projects
 
-* **[Absolute Lib:](github.com/team4308/absolutelib/tree/master)** My most extensive project to date, engineered to streamline FRC programming. It features pre-built, fully simulated subsystems for rapid iteration and deployment, along with a versatile trajectory calculator designed for the 2026 season but adaptable to any game. it also contains a bunch more! 
+* **[Absolute Lib:](https://github.com/team4308/absolutelib/tree/master)** My most extensive project to date, engineered to streamline FRC programming. It features pre-built, fully simulated subsystems for rapid iteration and deployment, along with a versatile trajectory calculator designed for the 2026 season but adaptable to any game. it also contains a bunch more! 
   
 * **Analog Guitar Pedals** I love analog devices, especially in music, it has a sound that no digital pedal could create. But analog pedals cost a lot so I create cheaper alternatives to amazing pedals, while manting the original sound profiles. Check out my latest one Ecstasis.
     
