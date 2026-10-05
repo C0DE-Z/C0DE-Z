@@ -20,7 +20,7 @@
   
 * **Analog Guitar Pedals** I love analog devices, especially in music, it has a sound that no digital pedal could create. But analog pedals cost a lot so I create cheaper alternatives to amazing pedals, while manting the original sound profiles. Check out my latest one [Ecstasis](https://github.com/C0DE-Z/Ecstasis).
     
-* **[Z](https://github.com/C0DE-Z/Ecstasis)** A video editor made fully in c++ made designed to fuck up videos 
+* **[Z](https://github.com/C0DE-Z/Z)** A video editor made fully in c++ made designed to fuck up videos 
 
 * **[Absolute Lib](https://github.com/team4308/absolutelib/tree/master)** My most extensive project to date, engineered to streamline FRC programming. It features pre-built, fully simulated subsystems for rapid iteration and deployment, along with a versatile trajectory calculator designed for the 2026 season but adaptable to any game. it also contains a bunch more!
   
